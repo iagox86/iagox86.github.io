@@ -1,0 +1,19 @@
+title: Ron's Bowes
+email: ron@skullsecurity.org
+# description: >-
+#   Ron's Site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://iagox86.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+markdown: kramdown
+
+twitter_username: iagox86
+github_username:  iagox86
+mastodon:
+- username: iagox86
+  instance: infosec.exchange
